@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# packed artifacts (never commit the tarball: it is a build output)
+*.tgz
+
+# local data
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,4 @@
+# Local bundle patch: mounts the picker as one more Loader row.
+- insert:
+    - id: effort-panel
+      name: 'dsh-plugin-effort-panel'
