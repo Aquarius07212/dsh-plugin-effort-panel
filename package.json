@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-effort-panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Codex-style single-panel model and reasoning-effort picker for the DeepSeek Harness composer.",
   "type": "module",
   "main": "lib/index.js",
