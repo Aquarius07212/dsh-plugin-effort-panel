@@ -27,7 +27,7 @@
 
 ## 安装
 
-DeepSeek Harness **0.2.1-rc.2 ~ 0.2.1** 的 Desktop 或 Web profile：
+DeepSeek Harness **0.2.1-rc.2 ~ 0.2.2** 的 Desktop 或 Web profile：
 
 ```powershell
 # 桌面端
@@ -55,7 +55,7 @@ dsh plugin --profile desktop remove dsh-plugin-effort-panel
 
 | DSH 版本 | 状态 |
 |---|---|
-| 0.2.1-rc.2 ~ 0.2.1 | 支持（`engines.dsh` 已声明） |
+| 0.2.1-rc.2 ~ 0.2.2-rc.1 | 支持，已在 `0.2.1-rc.5` 与 `0.2.2-rc.1` 实测 |
 | 0.2.0 及更早 | 未适配（插槽结构不同） |
 | 0.3+ | 未知，可能需要跟随官方槽位改动 |
 
@@ -94,7 +94,7 @@ DSH 主题在 Chromium 140+ 上把全局圆角设为超椭圆：
 - 只实现了 Web/Desktop 客户端，没有 TUI 版本。
 - 统计里的 tokens 来自会话的 `tokenUsage` 投影，投影不可用时显示 `—`。
 - 金额按平台返回的第一种钱包展示；多币种时只显示第一个。
-- 依赖 DSH 0.2.1 的槽位内部结构，大版本升级可能失效（失效表现为回到原生菜单，停用插件即可）。
+- 依赖 DSH 0.2.x 的槽位内部结构，大版本升级可能失效（失效表现为回到原生菜单，停用插件即可）。
 
 ## 开发
 

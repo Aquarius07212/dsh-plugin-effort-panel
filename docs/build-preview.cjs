@@ -74,7 +74,7 @@ ${css}
   <div class="dep-stats">
     <div class="dep-stat"><span class="dep-stat-k">本会话</span><span class="dep-stat-v">12.6k tokens</span></div>
     <div class="dep-stat"><span class="dep-stat-k">余额</span><span class="dep-stat-v">CNY 1.84</span></div>
-    <span class="dep-ver">v0.6.7</span>
+    <span class="dep-ver">v${require(path + "/package.json").version}</span>
   </div>
 </div>
 </div></body></html>`;
