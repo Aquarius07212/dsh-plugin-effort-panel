@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aquarius07212/dsh-plugin-effort-panel.git"
+    "url": "git+https://github.com/DayMoon07/dsh-plugin-effort-panel.git"
   },
-  "homepage": "https://github.com/Aquarius07212/dsh-plugin-effort-panel#readme",
+  "homepage": "https://github.com/DayMoon07/dsh-plugin-effort-panel#readme",
   "bugs": {
-    "url": "https://github.com/Aquarius07212/dsh-plugin-effort-panel/issues"
+    "url": "https://github.com/DayMoon07/dsh-plugin-effort-panel/issues"
   },
   "author": "Aqua",
   "license": "MIT"
